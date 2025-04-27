@@ -1,0 +1,31 @@
+﻿.\LibreHardwareMonitorBridge.exe : [DEBUG] Checking hardware: Gigabyte Z890 EAGLE WIFI7, Type: Motherboard
+At line:1 char:77
++ ... ge\bin\Release\net9.0'; .\LibreHardwareMonitorBridge.exe 2>&1 | Out-F ...
++                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([DEBUG] Checkin...pe: Motherboard:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+[DEBUG] Checking hardware: Intel Core Ultra 7 265K, Type: Cpu
+[DEBUG] Sensor: CPU Core #1, Type: Load, Value: 19.999998
+[DEBUG] Sensor: CPU Core #2, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #3, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #4, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #5, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #6, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #7, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #8, Type: Load, Value: 16.666668
+[DEBUG] Sensor: CPU Core #9, Type: Load, Value: 50
+[DEBUG] Sensor: CPU Core #10, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #11, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #12, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #13, Type: Load, Value: 16.666668
+[DEBUG] Sensor: CPU Core #14, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #15, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #16, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #17, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #18, Type: Load, Value: 0
+[DEBUG] Sensor: CPU Core #19, Type: Load, Value: 33.333332
+[DEBUG] Sensor: CPU Core #20, Type: Load, Value: 33.333332
+[DEBUG] Sensor: CPU Total, Type: Load, Value: 8.500004
+[DEBUG] Sensor: CPU Core, Type: Voltage, Value: 1.625
+{"cpuTemperature":null}

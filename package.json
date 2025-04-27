@@ -1,0 +1,24 @@
+{
+  "name": "StatSentry",
+  "version": "1.0.0",
+  "main": "src/monitor.js",
+  "scripts": {
+    "start": "node src/monitor.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-gyp rebuild",
+    "setup": "node setup.js",
+    "monitor": "node test_native.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-addon-api": "^8.3.1",
+    "node-gyp-build": "^4.8.4",
+    "systeminformation": "^5.25.11"
+  },
+  "devDependencies": {
+    "node-gyp": "^11.2.0"
+  }
+}
