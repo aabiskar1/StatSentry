@@ -14,7 +14,7 @@ A lightweight, real-time hardware monitor for Windows that displays CPU and GPU 
 ## Requirements
 
 - Windows operating system
-- Node.js (v14 or higher)
+- Node.js (v20 or higher)
 - Administrator privileges (for accurate CPU temperature readings)
 - For GPU monitoring: NVIDIA graphics card with recent drivers
 
